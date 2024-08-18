@@ -1,2 +1,2 @@
 # enbdleap-python-core
-A framework based on fastify
+A framework based on fastapi
